@@ -1,5 +1,5 @@
 # Collatz Conjecture: Numerical Analysis & 90,902-Digit Integrity Deficit
-
+https://zenodo.org/records/21357371
 This repository contains a suite of **CUDA-accelerated kernels** and high-precision verification scripts designed to analyze the bit-density degradation and numerical stability of the Collatz Conjecture at extreme scales.
 
 The research identifies a specific **Integrity Deficit of 90,902 digits** using High-Performance Computing (HPC) methods, exploring the boundary where Diophantine approximations and GPU floating-point precision limits intersect.
